@@ -1,2 +1,5 @@
 "Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 adriana day "
+
+Aniel, el repositorio remoto se puede encontrar en las URLS https://github.com/adrianaday/tareacolaborativa
+https://github.com/anielmx/tareacolaborativa
